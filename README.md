@@ -3,7 +3,7 @@
 Hi!  I assume you are here because you are super excited about learning how to gererate synthetic earthquake data using FakeQuakes.  FakeQuakes is the set of semistochastic forward modeling codes from https://github.com/dmelgarm/MudPy.  
 
 The jupyter notebook in this repository goes through how to define parameters and run the FakeQuakes code using the Mentawai region as an example. 
-     - The figures folder just contains a few figures used in the jupyter notebook.  
+     <br>- The figures folder just contains a few figures used in the jupyter notebook.  
 
 The files folder contains the various files needed to run FakeQuakes.
      __sm.gflist__ contains the full list of strong motion seismic stations in the Mentawai region
