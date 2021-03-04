@@ -1,0 +1,3 @@
+#station	lon  lat	"static,disp,vel,tsun,strain"
+MNSI  99.5796  0.7955 0 1 0 0 0 0.052213408834157926
+PPSI  100.01  -2.766 0 1 0 0 0  0.06556389473977188
