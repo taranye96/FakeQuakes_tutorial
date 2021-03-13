@@ -1,9 +1,9 @@
-Scenario calculated at 2021-03-03 23:16:56 GMT
+Scenario calculated at 2021-03-12 23:51:20 GMT
 Project name: demo
 Run name: mentawai
 Run number: 000001
 Velocity model: mentawai.mod
-No. of KL modes: 25
+No. of KL modes: 72
 Hurst exponent: 0.4
 Corr. length used Lstrike: 62.92 km
 Corr. length used Ldip: 32.30 km
@@ -13,8 +13,8 @@ Maximum width Wmax: 75.00 km
 Effective length Leff: 133.01 km
 Effective width Weff: 63.75 km
 Target magnitude: Mw 8.5000
-Actual magnitude: Mw 8.3009
-Hypocenter (lon,lat,z[km]): (99.287000,-3.000000,5.95)
+Actual magnitude: Mw 8.3988
+Hypocenter (lon,lat,z[km]): (99.329000,-3.286000,3.99)
 Hypocenter time: 2010-10-25T14:42:12.000000Z
-Centroid (lon,lat,z[km]): (99.919827,-3.279736,11.03)
+Centroid (lon,lat,z[km]): (99.817296,-3.363333,9.09)
 Source time function type: dreger
