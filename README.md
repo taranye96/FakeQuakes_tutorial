@@ -3,8 +3,8 @@
 Hi!  I assume you are here because you are super excited about learning how to generate synthetic earthquake data using FakeQuakes.  FakeQuakes is the set of semistochastic forward modeling codes from https://github.com/dmelgarm/MudPy.  
 
 There are two different jupyter notebook's in this repository. 
-<br>  - FQ_walkthrough explains some of the theory and goes through how to define parameters and run the FakeQuakes code using the Mentawai region as an example
-<br>  - FakeQuakes_lab has a couple exercises to practice using FakeQuakes. 
+<br>  - __FQ_walkthrough.ipynb__ explains some of the theory and goes through how to define parameters and run the FakeQuakes code using the Mentawai region as an example
+<br>  - __FakeQuakes_lab.ipynb__ has a couple exercises to practice using FakeQuakes. 
 
 The figures folder just contains a few figures used in FQ_walkthrough.ipynb.  
 
