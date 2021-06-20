@@ -14,6 +14,6 @@ The files folder contains the various files needed to run FakeQuakes.
 <br>  - __mentawai.fault__ is a moderately-discretized fault model for the Mentawai region
 <br>  - __mentawai.mod__ is the velocity model for the Mentawai region
 
-The demo folder is an example FakeQuakes project folder with output rupture models and waveforms that I generated.  You can just use this project folder to follow along with the jupyter notebook, or create your own.
+The demo folder is an example FakeQuakes project folder with output rupture models and waveforms that I generated.  You can just use this project folder to follow along with the __FQ_walkthrough__ jupyter notebook, or create your own.
 
 Have fun creating some earthquakes!
