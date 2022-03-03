@@ -1,0 +1,22 @@
+Scenario calculated at 2022-03-02 20:45:21 GMT
+Project name: Tutorial
+Run name: mentawai
+Run number: 000001
+Velocity model: mentawai.mod
+No. of KL modes: 72
+Hurst exponent: 0.4
+Corr. length used Lstrike: 62.92 km
+Corr. length used Ldip: 32.30 km
+Slip std. dev.: 0.900 km
+Maximum length Lmax: 156.48 km
+Maximum width Wmax: 75.00 km
+Effective length Leff: 133.01 km
+Effective width Weff: 63.75 km
+Target magnitude: Mw 7.8000
+Actual magnitude: Mw 7.8000
+Hypocenter (lon,lat,z[km]): (99.513000,-3.311000,5.95)
+Hypocenter time: 2010-10-25T14:42:12.000000Z
+Centroid (lon,lat,z[km]): (99.715782,-3.192364,9.36)
+Source time function type: dreger
+Average Risetime (s): 5.40
+Average Rupture Velocity (km/s): 1.67
